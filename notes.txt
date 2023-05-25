@@ -1,0 +1,2 @@
+Learning Rust from "The Book", The Rust Programmin Language,
+Rust 1.67.1 (released 2023-02-09) https://doc.rust-lang.org/book/
